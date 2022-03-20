@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/accueil">
+
+    /*
+        Zone de déclaration des fragments avec liaison avec leurs classes java
+    */
+
+
+    /* ID utiliser dans la classe accueil ne pas oublier de l'affecter*/
+    /* Chemin de fichier vers la classe java du fragment*/
+    /* Lien vers le fragment */
+
+    <fragment
+        android:id="@+id/accueil"
+        android:name="com.example.biorelais_android.ui.accueil.accueilFragment"
+        tools:layout="@layout/fragment_accueil"
+        />
+
+
+    <fragment
+        android:id="@+id/clientcommande"
+        android:name="com.example.biorelais_android.ui.client.clientFragment"
+        tools:layout="@layout/fragment_client"
+        />
+
+    <fragment
+        android:id="@+id/vosRetraits"
+        android:name="com.example.biorelais_android.ui.vosretraits.vosretraitsFragment"
+        tools:layout="@layout/fragment_vosretraits"
+        />
+
+    <fragment
+        android:id="@+id/votrecompte"
+        android:name="com.example.biorelais_android.ui.votrecompte.votrecompteFragment"
+        tools:layout="@layout/fragment_votrecompte"
+        />
+
+
+</navigation>

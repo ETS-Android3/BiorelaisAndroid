@@ -1,0 +1,574 @@
+[Friday 30th of April 2021 11:47:57 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:47:57 AM] [Level : WARNING] [Ip : LOCALHOST] : Echec de la récupération de toutes les commandes d'un client !
+[Friday 30th of April 2021 11:51:42 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:51:42 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:52:21 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération du sel = 'yoan.laurain0@gmail.com'.
+[Friday 30th of April 2021 11:52:21 AM] [Level : OK] [Ip : LOCALHOST] : Récupération réussite.
+[Friday 30th of April 2021 11:52:21 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion, login = 'yoan.laurain0@gmail.com', mdp = '5291cefe14868f6853703e4c7d68e2145347909c18b187ac9aa170ad997ebb9b'.
+[Friday 30th of April 2021 11:52:21 AM] [Level : OK] [Ip : LOCALHOST] : Connexion réussite.
+[Friday 30th of April 2021 11:52:26 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:52:26 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:52:27 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:52:27 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:54:53 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:54:53 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:54:54 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:54:54 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:55:01 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération du sel = 'yoan.laurain0@gmail.com'.
+[Friday 30th of April 2021 11:55:01 AM] [Level : OK] [Ip : LOCALHOST] : Récupération réussite.
+[Friday 30th of April 2021 11:55:02 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion, login = 'yoan.laurain0@gmail.com', mdp = '5291cefe14868f6853703e4c7d68e2145347909c18b187ac9aa170ad997ebb9b'.
+[Friday 30th of April 2021 11:55:02 AM] [Level : OK] [Ip : LOCALHOST] : Connexion réussite.
+[Friday 30th of April 2021 11:55:06 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:55:06 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:56:47 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 11:56:47 AM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 11:57:25 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:57:25 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:57:25 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:57:25 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:57:27 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 11:57:27 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 11:57:30 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:57:30 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:58:54 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 11:58:54 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 11:58:57 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 11:58:57 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 11:59:09 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:59:09 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:59:11 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 11:59:11 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 11:59:12 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 11:59:12 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 11:59:50 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:59:50 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:59:50 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:59:50 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:59:55 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:59:55 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:59:59 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:59:59 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 11:59:59 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 11:59:59 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:16:59 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 12:16:59 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 12:17:06 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:17:06 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:17:07 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:17:07 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:17:08 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 12:17:08 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 12:17:19 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:17:19 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:17:19 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:17:19 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:17:20 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 12:17:20 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 12:17:25 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:17:25 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:17:25 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:17:25 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:17:27 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 12:17:27 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 12:18:12 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:18:12 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:18:12 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:18:12 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:18:13 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 12:18:13 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 12:18:24 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:18:24 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:18:24 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:18:24 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:18:27 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:18:27 PM] [Level : WARNING] [Ip : LOCALHOST] : Echec de la récupération de toutes les commandes d'un client !
+[Friday 30th of April 2021 12:18:29 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:18:29 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:18:45 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:18:45 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 12:18:52 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 12:18:52 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:50:42 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 01:50:42 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 01:50:49 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:50:49 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:50:49 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:50:49 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:50:55 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:50:55 PM] [Level : WARNING] [Ip : LOCALHOST] : Echec de la récupération de toutes les commandes d'un client !
+[Friday 30th of April 2021 01:50:58 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:50:58 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:51:03 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:51:03 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:51:07 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:51:07 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:51:11 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:51:11 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:51:13 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 01:51:13 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 01:54:20 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 01:54:20 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 01:54:26 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:54:26 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:54:26 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:54:26 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:54:28 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 01:54:28 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 01:57:42 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 01:57:42 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 01:57:49 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:57:49 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:57:49 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 01:57:49 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 01:57:51 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 01:57:51 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 01:59:55 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 01:59:55 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:00:02 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:00:02 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:00:03 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:00:03 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:00:04 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:00:04 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:00:58 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:00:58 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:01:04 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:01:04 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:01:05 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:01:05 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:01:06 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:01:06 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:02:59 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:02:59 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:02:59 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:02:59 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:03:00 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:03:00 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:03:50 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:03:50 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:04:00 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:04:00 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:04:00 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:04:00 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:04:02 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:04:02 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:07:53 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:07:53 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:07:59 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:07:59 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:08:00 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:08:00 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:08:01 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:08:01 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:09:46 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:09:46 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:09:52 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:09:52 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:09:52 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:09:52 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:09:53 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:09:53 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:12:41 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:12:41 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:12:47 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:12:47 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:12:48 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:12:48 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:12:49 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:12:49 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:15:49 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:15:49 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:15:55 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:15:55 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:15:56 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:15:56 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:15:57 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:15:57 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:22:25 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:22:25 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:22:33 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:22:33 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:22:34 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:22:34 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:22:35 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:22:35 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:23:30 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:23:30 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:23:39 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:23:39 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:23:39 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:23:39 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:23:43 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:23:43 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:24:40 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:24:40 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:24:44 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:24:44 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:25:48 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:25:48 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:26:41 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:26:41 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:26:41 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:26:41 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:26:43 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:26:43 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:26:48 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:26:48 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:26:48 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:26:48 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:26:49 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:26:49 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:27:44 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:27:44 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:27:50 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:27:50 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:27:51 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:27:51 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:27:54 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:27:54 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:29:08 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:29:08 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:29:16 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:29:16 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:29:17 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:29:17 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:29:18 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:29:18 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:34:07 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:34:07 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:34:14 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:34:14 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:34:14 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:34:14 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:34:16 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:34:16 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:36:50 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:36:50 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:36:58 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:36:58 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:36:58 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:36:58 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:36:59 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:36:59 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:38:42 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:38:42 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:38:42 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:38:42 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:38:44 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:38:44 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:39:59 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:39:59 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:40:00 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:40:00 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:40:01 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:40:01 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:40:44 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:40:44 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:40:45 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:40:45 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:40:46 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:40:46 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:41:36 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:41:36 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:41:36 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:41:36 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:41:37 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:41:37 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:43:57 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:43:57 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:43:57 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:43:57 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:43:58 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:43:58 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 02:45:08 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 02:45:08 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 02:45:14 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:45:14 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:45:14 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 02:45:14 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 02:45:18 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 02:45:18 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:11:10 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 07:11:10 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 07:11:19 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:11:19 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:11:19 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:11:19 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:11:20 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:11:20 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:11:26 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:11:26 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:11:26 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:11:26 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:11:32 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:11:32 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:11:35 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:11:35 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:11:40 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:11:40 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:11:40 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:11:40 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:11:42 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:11:42 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:11:44 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:11:44 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:11:45 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:11:45 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:11:45 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:11:45 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:12:38 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:12:38 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:12:43 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:12:43 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:12:56 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:12:56 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:12:58 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:12:59 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:13:16 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:13:16 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:16:09 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 07:16:09 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 07:16:15 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:16:15 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:16:15 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:16:15 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:16:18 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:16:18 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:16:27 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:16:27 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:18:21 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 07:18:21 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 07:18:35 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:18:35 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:18:35 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:18:35 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:18:38 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:18:38 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:21:50 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 07:21:50 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 07:22:29 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:22:29 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:22:29 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:22:29 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:22:31 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:22:31 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:22:45 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:22:45 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:22:46 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:22:46 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:25:13 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 07:25:13 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 07:25:25 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:25:25 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:25:25 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:25:25 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:25:29 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:25:29 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:26:56 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 07:26:56 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 07:27:09 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:27:09 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:27:09 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:27:09 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:27:10 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:27:10 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:27:13 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:27:14 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:27:16 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:27:16 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:27:19 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:27:19 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:27:20 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:27:20 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:27:22 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:27:22 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:27:24 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:27:24 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:27:26 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:27:26 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:27:27 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:27:27 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:27:31 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:27:31 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:28:50 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 07:28:50 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 07:29:04 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:29:04 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:29:05 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:29:05 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:29:06 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:29:06 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:29:07 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:29:07 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:30:54 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Friday 30th of April 2021 07:30:54 PM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Friday 30th of April 2021 07:31:05 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:31:05 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:31:05 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:31:05 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:31:06 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:31:06 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:31:08 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:31:08 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:31:39 PM] [Level : OK] [Ip : LOCALHOST] : Tentatve de signalement d'une commande
+[Friday 30th of April 2021 07:31:39 PM] [Level : OK] [Ip : LOCALHOST] : Tentatve de signalement d'une commande
+[Friday 30th of April 2021 07:31:39 PM] [Level : OK] [Ip : LOCALHOST] : Signalement reussi
+[Friday 30th of April 2021 07:31:39 PM] [Level : OK] [Ip : LOCALHOST] : Signalement reussi
+[Friday 30th of April 2021 07:31:39 PM] [Level : OK] [Ip : LOCALHOST] : Tentatve de signalement d'une commande pour une remarque
+[Friday 30th of April 2021 07:31:39 PM] [Level : OK] [Ip : LOCALHOST] : Signalement remarque reussi
+[Friday 30th of April 2021 07:31:40 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:31:40 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:31:40 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:31:40 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:37:45 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:37:45 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:37:46 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:37:46 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:38:02 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:38:02 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:38:12 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:38:12 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:38:18 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:38:18 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:38:28 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:38:28 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:38:34 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:38:34 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:38:53 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de confirmation d'une commande
+[Friday 30th of April 2021 07:38:53 PM] [Level : OK] [Ip : LOCALHOST] : confirmation commande réussite.
+[Friday 30th of April 2021 07:38:53 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:38:53 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:38:53 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:38:53 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:39:23 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:39:23 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:39:25 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:39:25 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:39:26 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:39:26 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:39:27 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:39:27 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:39:28 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:39:28 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:39:29 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Friday 30th of April 2021 07:39:29 PM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Friday 30th of April 2021 07:39:30 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:39:30 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Friday 30th of April 2021 07:39:32 PM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Friday 30th of April 2021 07:39:32 PM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:19:36 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Monday 3rd of May 2021 11:19:36 AM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Monday 3rd of May 2021 11:19:39 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:19:39 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:19:39 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:19:39 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:19:41 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:19:41 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:20:04 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Monday 3rd of May 2021 11:20:04 AM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Monday 3rd of May 2021 11:20:07 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:20:07 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:20:08 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:20:08 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:20:09 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:20:09 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:22:16 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Monday 3rd of May 2021 11:22:16 AM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Monday 3rd of May 2021 11:22:18 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:22:18 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:22:19 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:22:19 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:22:21 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:22:21 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:48:08 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Monday 3rd of May 2021 11:48:08 AM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Monday 3rd of May 2021 11:48:11 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:48:11 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:48:11 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:48:11 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:48:12 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:48:12 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:48:14 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:48:14 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:48:15 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:48:15 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:48:17 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:48:17 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:48:18 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:48:18 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:48:19 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:48:19 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:48:19 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:48:19 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:48:37 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:48:37 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:48:38 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:48:38 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:49:18 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:49:18 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:49:18 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:49:18 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:49:19 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:49:19 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:49:23 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:49:23 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:49:24 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:49:24 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:49:25 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:49:25 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:49:26 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:49:26 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:49:27 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:49:27 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:49:28 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:49:28 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:50:25 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:50:25 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:50:26 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:50:26 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:50:28 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:50:28 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:50:29 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:50:29 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:51:57 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de connexion par jeton, jeton = 'yoan'.
+[Monday 3rd of May 2021 11:51:57 AM] [Level : OK] [Ip : LOCALHOST] : Connexion par jeton réussite.
+[Monday 3rd of May 2021 11:52:07 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:52:07 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:52:08 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:52:08 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:52:56 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:52:56 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:52:57 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:52:57 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:53:27 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:53:27 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:53:58 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:53:58 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:55:10 AM] [Level : OK] [Ip : LOCALHOST] : Tentatve de signalement d'une commande
+[Monday 3rd of May 2021 11:55:10 AM] [Level : OK] [Ip : LOCALHOST] : Signalement reussi
+[Monday 3rd of May 2021 11:55:11 AM] [Level : OK] [Ip : LOCALHOST] : Tentatve de signalement d'une commande pour une remarque
+[Monday 3rd of May 2021 11:55:11 AM] [Level : OK] [Ip : LOCALHOST] : Tentatve de signalement d'une commande
+[Monday 3rd of May 2021 11:55:11 AM] [Level : OK] [Ip : LOCALHOST] : Signalement reussi
+[Monday 3rd of May 2021 11:55:11 AM] [Level : OK] [Ip : LOCALHOST] : Signalement remarque reussi
+[Monday 3rd of May 2021 11:55:12 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:55:12 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:55:12 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:55:12 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:55:43 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:55:43 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:56:01 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:56:01 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:56:01 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:56:01 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:56:02 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:56:02 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:56:05 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de confirmation d'une commande
+[Monday 3rd of May 2021 11:56:05 AM] [Level : OK] [Ip : LOCALHOST] : confirmation commande réussite.
+[Monday 3rd of May 2021 11:56:06 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:56:06 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:56:07 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:56:07 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client
+[Monday 3rd of May 2021 11:56:34 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les infos d'une commande d'un client :), token = 'yoan.
+[Monday 3rd of May 2021 11:56:34 AM] [Level : OK] [Ip : LOCALHOST] : Récup infos commande réussite.
+[Monday 3rd of May 2021 11:56:37 AM] [Level : OK] [Ip : LOCALHOST] : Tentative de récupération de toutes les commandes d'un client :), token = 'yoan'.
+[Monday 3rd of May 2021 11:56:37 AM] [Level : OK] [Ip : LOCALHOST] : Récup de toutes les commandes d'un client

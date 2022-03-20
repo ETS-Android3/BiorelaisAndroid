@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Général">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/accueil"
+                    android:icon="@drawable/img_home"
+                    android:title="Accueil"
+                    tools:layout="@layout/fragment_accueil"/>
+                <item
+                    android:id="@+id/clientcommande"
+                    android:icon="@drawable/img_commande"
+                    android:title="Vos commandes"
+                    tools:layout="@layout/fragment_clientcommande"/>
+                <item
+                    android:id="@+id/vosRetraits"
+                    android:icon="@drawable/img_panier"
+                    android:title="Vos retraits"
+                    tools:layout="@layout/fragment_vosretraits"/>
+                <item
+                    android:id="@+id/votrecompte"
+                    android:icon="@drawable/img_compte"
+                    android:title="Votre compte"
+                    tools:layout="@layout/fragment_votrecompte"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Explorer">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_homes"
+                    android:icon="@drawable/img_berryjam"
+                    android:title="Les produits" />
+                <item
+                    android:id="@+id/nav_gallersy"
+                    android:icon="@drawable/img_reseller"
+                    android:title="Les producteurs" />
+                <item
+                    android:id="@+id/nav_slideshsow"
+                    android:icon="@drawable/img_shop"
+                    android:title="Nos centres" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Autres">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_hdmes"
+                    android:icon="@drawable/img_settings"
+                    android:title="Paramètres" />
+                <item
+                    android:id="@+id/nav_galldersy"
+                    android:icon="@drawable/img_rservice"
+                    android:title="Services client" />
+                <item
+                    android:id="@+id/nav_sldideshsow"
+                    android:icon="@drawable/img_auction"
+                    android:title="Mentions légales" />
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/buttonDeconnexion"
+        android:icon="@drawable/img_arrow"
+        android:title="Déconnexion" />
+
+</menu>
